@@ -14,7 +14,8 @@ The project depends on the turtle - Turtle graphics - Python and `time` library,
 
 ### How to run?
 
-You can run the script from the Jupyter Notebook or PyCharm, it depends on your preferences.
+You can run the script from PyCharm, which was used during creating the code, but it depends on your preferences.
+However be aware that you may need to rewrite the connection between the modules which could be different than it is. 
 
 ### Important information
 
