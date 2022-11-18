@@ -5,7 +5,7 @@ OOP was used to create three seperated modules with classes: scoreboard, snake a
 
 ### Setup
 
-Python 3.10.3 version was used.
+Python 3.10.3 version was used. Are you uncertain about your version? Use command line `python --version`.
 
 The project depends on the turtle - Turtle graphics - Python and `time` library, instal it with pip:
 
